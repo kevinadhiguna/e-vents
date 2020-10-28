@@ -7,15 +7,15 @@ An event blog powered by VueJS, GraphQL, and Strapi.
 <img src="https://raw.githubusercontent.com/kevinadhiguna/e-vents/main/demo/1.full.png" width="90%" ></img>
 
 ### All events are categorized :<br>
-`Music` <br>
+`Music` :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/e-vents/main/demo/2.music.png" width="90%" ></img> <br>
-`Coding` <br>
+`Coding` :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/e-vents/main/demo/3.coding.png" width="90%" ></img> <br>
 
 ### Look at an event's detail :<br>
-`Music`:<br>
+`Music` :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/e-vents/main/demo/4.detail.png" width="90%" ></img> <br>
-`Coding`:<br>
+`Coding` :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/e-vents/main/demo/5.detail.png" width="90%" ></img> <br>
 
 ### You can search for a specific event :<br>
