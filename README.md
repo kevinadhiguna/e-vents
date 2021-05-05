@@ -53,3 +53,5 @@ cd e-vents-client && npm install
 ```
 
 4) Open `localhost:8080` on a browser to this app running!
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/e-vents)](https://github.com/kevinadhiguna)
