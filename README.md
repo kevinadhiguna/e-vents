@@ -54,4 +54,7 @@ cd e-vents-client && npm install
 
 4) Open `localhost:8080` on a browser to this app running!
 
+## Reference
+- [Traversy Media & Faraday Academy - Build an Event App with Vue.js, Gridsome & Strapi.js](https://youtu.be/vB6rmWCmANA)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/e-vents)](https://github.com/kevinadhiguna)
