@@ -1,5 +1,8 @@
 # E-vents
+
 An event blog powered by VueJS, GraphQL, and Strapi.
+
+<br />
 
 ## Demo
 
@@ -24,7 +27,10 @@ An event blog powered by VueJS, GraphQL, and Strapi.
 `Coding` :<br>
 <img src="https://raw.githubusercontent.com/kevinadhiguna/e-vents/main/demo/7.search.png" width="90%" ></img> <br>
 
+<br />
+
 ## How to Run
+
 1) Clone this repository :
 ```
 git clone https://github.com/kevinadhiguna/e-vents.git
@@ -54,7 +60,11 @@ cd e-vents-client && npm install
 
 4) Open `localhost:8080` on a browser to this app running!
 
+<br />
+
 ## Reference
 - [Traversy Media & Faraday Academy - Build an Event App with Vue.js, Gridsome & Strapi.js](https://youtu.be/vB6rmWCmANA)
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/e-vents)](https://github.com/kevinadhiguna)
